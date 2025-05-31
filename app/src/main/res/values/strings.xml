@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jeu Hazard</string>
+    <string name="entree_invalide">Veuillez entrer un nombre valide.</string>
+    <string name="essai_numero">Essai numéro : </string>
+    <string name="nombre_plus_grand">Votre nombre est plus grand que le nombre secret.</string>
+    <string name="nombre_plus_petit">Votre nombre est plus petit que le nombre secret.</string>
+    <string name="bravo">BRAVO ! Vous avez trouvé le nombre !</string>
+    <string name="str_nouvel_essai">Nouvel essai ?</string>
+    <string name="ok">OK</string>
+    <string name="finish">FINISH</string>
+</resources>
